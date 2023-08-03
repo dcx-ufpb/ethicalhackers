@@ -1,0 +1,100 @@
+
+h1 {
+  font-size: 350%;
+}
+
+body {
+  font-size: 120%;
+  font-family: 'Share Tech Mono', monospace;
+  padding-top: 140px;
+  padding-bottom: 50px;
+  background-color: #000000;
+  color: #ffffff;
+}
+
+#logo-eh {
+  background-position: top;
+}
+
+p {
+  padding-top: 8%;
+}
+
+#team {
+  padding-top: 8%;
+}
+
+/** ========== PROJETOS ========== **//
+#projects {
+  padding-top: 20px;
+}
+
+#projects1{
+  padding-top: 0%;
+
+}
+
+
+.text1 {
+  font-size: 16px;
+  color: #ffffff; 
+}
+
+
+#projects2{
+  padding-top: 13%;
+  
+}
+
+
+#text2 {
+  font-size: 16px;
+  color: #ffffff; 
+}
+
+
+#projects3{
+  padding-top: 10%;
+}
+
+#text3 {
+  font-size: 16px;
+  color: #ffffff; 
+}
+
+
+
+#projects4{
+  padding-top: 31%;
+}
+
+#text4 {
+  font-size: 16px;
+  color: #ffffff; 
+}
+
+/** ========== PROJETOS ========== **/
+
+#carouselExampleControls {
+  padding-top: 8%;
+}
+
+.carousel-control-prev {
+  padding-top: 40%;
+}
+
+.carousel-control-next{
+  padding-top: 40%;
+}
+
+#contact {
+  padding-top: 10%;
+}
+
+.carousel {
+    width: 60%;
+    height: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
